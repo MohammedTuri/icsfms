@@ -1,0 +1,6 @@
+{
+  "name": "Immigration File Management System",
+  "description": "An interactive digital hub to manage corporate-grade immigration documents (ICS Visa, Residence Permit, Origin ID, ETD, Yellow Card) mapped securely to physical cabinet boxes, powered by Supabase Postgres schemas, interactive RLS rule simulation, and Gemini-based OCR extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
